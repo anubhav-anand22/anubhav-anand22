@@ -1,6 +1,6 @@
 👋 Hey there! I'm a passionate **Full Stack Web & Mobile Developer** 🚀
 
-🎓 Currently pursuing my **B.Tech in Computer Science & Engineering (CSE)**  
+🎓 Currently pursuing my **B.Tech in Computer Science & Engineering (CSE AIML)**  
 💻 Building cool things for the web 🌐 and mobile 📱
 
 ---
